@@ -1,0 +1,168 @@
+.dothis-gif{
+    display: flex;
+    align-content: flex-end;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+  
+   
+}
+.main{
+    text-align: center;
+    font-family: 'B612 Mono';font-size: 1em;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: left;
+    padding: 1em;
+    font-size: 1em;
+    font-family: 'EB Garamond';font-size: 22px;
+}
+    .bg-img{
+    max-height: 3em;
+    width: 100%;
+    
+}
+
+.flex_box{
+    display: flex;
+    flex-direction: column;
+
+}
+.heading{
+    font-family: 'Bungee';font-size: 3em;
+  text-decoration-color: violet;
+  text-decoration-thickness: .1em;
+  text-align: center;
+}
+.mission_wrap{
+    display: flex;
+    flex-direction: row;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    
+}
+.text-justify{
+    text-align: justify;
+}
+
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+ }
+  
+ .card {
+     flex: 0 1 22%;
+ }
+
+#services{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.card_name{
+    text-align: center;
+}
+.card_content{
+    text-align: justify;
+    
+}
+
+.cards{
+    margin: 2em;
+    border: 1em;
+    border-radius: 5px;
+    border-width: 2em;
+    padding: 2em;
+    
+ 
+}
+.row{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+}
+h4{
+    text-align: center;
+}
+.text-justify{
+    text-align: left;
+}
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+.abt_row {
+    display: flex;
+    margin: 3em;
+  }
+  
+  .abt_column {
+    flex: 50%;
+  }
+  #abt_img{
+      max-width: 40em;
+      max-height: 30em;
+      margin: 3em;
+  }
+
+  .con_row {
+    display: flex;
+    margin: 3em;
+  }
+  
+  .con_column {
+    flex: 50%;
+  }
+
+  footer{
+      background-color: #EB6864;
+      min-width: 120%;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .foot_text{
+      text-align: center;
+      padding: .5em;
+  }
+  .icons{
+      text-align: center;
+      padding: .5em;
+  }
